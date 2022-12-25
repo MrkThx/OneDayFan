@@ -1,0 +1,104 @@
+pos,name,team,cap
+GK, Emi Martinez (Aston Villa),ARG,FALSE
+GK, Franco Armani (River Plate),ARG,FALSE
+GK, Geronimo Rulli (Villarreal),ARG,FALSE
+DF, Marcos Acuna (Sevilla),ARG,FALSE
+DF, Juan Foyth (Villarreal),ARG,FALSE
+DF, Lisandro Martinez (Manchester United),ARG,FALSE
+DF, Nicolas Tagliafico (Lyon),ARG,FALSE
+DF, Cristian Romero (Tottenham),ARG,FALSE
+DF, Nicolas Otamendi (Benfica),ARG,FALSE
+DF, Nahuel Molina (Atletico Madrid),ARG,FALSE
+DF, Gonzalo Montiel (Sevilla),ARG,FALSE
+DF, German Pezzella (Real Betis),ARG,FALSE
+MF, Angel Di Maria (Juventus),ARG,FALSE
+MF, Leandro Paredes (Juventus),ARG,FALSE
+MF, Rodrigo De Paul (Atletico Madrid),ARG,FALSE
+MF, Alexis Mac Allister (Brighton),ARG,FALSE
+MF, Enzo Fernandez (Benfica),ARG,FALSE
+MF, Exequiel Palacios (Bayer Leverkusen),ARG,FALSE
+MF, Guido Rodriguez (Real Betis),ARG,FALSE
+FW, Lionel Messi (PSG),ARG,TRUE
+FW, Lautaro Martinez (Inter Milan),ARG,FALSE
+FW, Paulo Dybala (Roma),ARG,FALSE
+FW, Angel Correa (Atletico Madrid),ARG,FALSE
+FW, Julian Alvarez (Manchester City),ARG,FALSE
+FW, Thiago Almada?(Atlanta United),ARG,FALSE
+FW, Alejandro Gomez (Sevilla),ARG,FALSE
+GK, Dominik Livakovic (Dinamo Zagreb),CRO,FALSE
+GK, Ivica Ivusic (Osijek),CRO,FALSE
+GK, Ivo Grbic (Atletico Madrid),CRO,FALSE
+DF, Domagoj Vida (AEK Athens),CRO,FALSE
+DF, Dejan Lovren (Zenit Saint Petersburg),CRO,FALSE
+DF, Borna Barisic (Rangers),CRO,FALSE
+DF, Josip Juranovic (Celtic),CRO,FALSE
+DF, Josko Gvardiol (RB Leipzig),CRO,FALSE
+DF, Borna Sosa (Stuttgart),CRO,FALSE
+DF, Josip Stanisic (Bayern Munich),CRO,FALSE
+DF, Martin Erlic (Sassuolo),CRO,FALSE
+DF, Josip Sutalo (Dinamo Zagreb),CRO,FALSE
+MF, Luka Modric (Real Madrid),CRO,TRUE
+MF, Mateo Kovacic (Chelsea),CRO,FALSE
+MF, Marcelo Brozovic (Inter Milan),CRO,FALSE
+MF, Mario Pasalaic (Atalanta),CRO,FALSE
+MF, Nikola Vlasic (Torino),CRO,FALSE
+MF, Lovro Majer (Rennes),CRO,FALSE
+MF, Kristijan Jakic (Eintracht Frankfurt),CRO,FALSE
+MF, Luka Sucic (Red Bull Salzburg),CRO,FALSE
+FW, Ivan Perisic (Tottenham),CRO,FALSE
+FW, Andrej Kramaric (Hoffenheim)?,CRO,FALSE
+FW, Bruno Petkovic (Dinamo Zagreb),CRO,FALSE
+FW, Mislav Orsic (Dinamo Zagreb),CRO,FALSE
+FW, Ante Budimir (Osasuna),CRO,FALSE
+FW, Marko Livaja (Hajduk Split),CRO,FALSE
+GK, Yassine Bounou (Sevilla),MAR,FALSE
+GK, Munir El Kajoui (Al Wehda),MAR,FALSE
+GK, Ahmed Reda Tagnaouti (Wydad Casablanca),MAR,FALSE
+DF, Nayef Aguerd (West Ham United),MAR,FALSE
+DF, Yahia Attiat Allah (Wydad Casablanca),MAR,FALSE
+DF, Badr Benoun (Qatar SC),MAR,FALSE
+DF, Achraf Dari (Stade Brest),MAR,FALSE
+DF, Jawad El Yamiq (Real Valladolid),MAR,FALSE
+DF, Achraf Hakimi (Paris Saint-Germain),MAR,FALSE
+DF, Noussair Mazraoui (Bayern Munich),MAR,FALSE
+DF, Romain Saiss (Besiktas),MAR,TRUE
+MF, Sofyan Amrabat (Fiorentina),MAR,FALSE
+MF, Selim Amallah (Standard Liege),MAR,FALSE
+MF, Bilal El Khannouss (Racing Genk),MAR,FALSE
+MF, Yahya Jabrane (Wydad Casablanca),MAR,FALSE
+MF, Azzedine Ounahi (Angers),MAR,FALSE
+MF, Abdelhamid Sabiri (Sampdoria),MAR,FALSE
+FW, Zakaria Aboukhlal (Toulouse),MAR,FALSE
+FW, Soufiane Boufal (Angers),MAR,FALSE
+FW, Ilias Chair (Queens Park Rangers),MAR,FALSE
+FW, Walid Cheddira (Bari),MAR,FALSE
+FW, Youssef En-Nesyri (Sevilla),MAR,FALSE
+FW, Abde Ezzalzouli (Osasuna),MAR,FALSE
+FW, Abderrazak Hamdallah (Al Ittihad),MAR,FALSE
+FW, Amine Harit (Olympique Marseille),MAR,FALSE
+FW, Hakim Ziyech (Chelsea),MAR,FALSE
+GK," Hugo Lloris, Tottenham?",FRA,TRUE
+GK," Alphonse Areola, West Ham?",FRA,FALSE
+GK," Steve Mandanda, Rennes",FRA,FALSE
+DF," Benjamin Pavard, Bayern Munich?",FRA,FALSE
+DF," Jules Kounde, Barcelona",FRA,FALSE
+DF," Raphael Varane, Manchester United",FRA,FALSE
+DF," Theo Hernandez, AC Milan?",FRA,FALSE
+DF," Lucas Hernandez, Bayern Munich",FRA,FALSE
+DF," Benoit Badiashile, Monaco?",FRA,FALSE
+DF," Ferland Mendy, Real Madrid?",FRA,FALSE
+DF," Dayot Upamecano, Bayern Munich?",FRA,FALSE
+DF," Ibrahima Konate, Liverpool",FRA,FALSE
+DF," William Saliba, Arsenal",FRA,FALSE
+MF," Eduardo Camavinga, Real Madrid?",FRA,FALSE
+MF," Youssouf Fofana, Monaco?",FRA,FALSE
+MF," Matteo Guendouzi, Marseille",FRA,FALSE
+MF," Aurelien Tchouameni, Real Madrid?",FRA,FALSE
+MF," Adrien Rabiot, Juventus",FRA,FALSE
+MF," Jordan Veretout, Marseille",FRA,FALSE
+FW," Ousmane Dembele, Barcelona?",FRA,FALSE
+FW," Olivier Giroud, AC Milan?",FRA,FALSE
+FW," Antoine Griezmann, Atletico Madrid",FRA,FALSE
+FW," Kylian Mbappe, PSG",FRA,FALSE
+FW," Randal Kolo Muani, Eintracht Frankfurt",FRA,FALSE
+FW," Kingsley Coman, Bayern Munich",FRA,FALSE
